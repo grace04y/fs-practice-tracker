@@ -1,11 +1,13 @@
 ## Figure Skating Skill Tracker
-###Tracks daily practice and long term progress in skills
+*Originally built in 4 phases as part of a term project for CPSC210* 
+
+### Tracks daily practice and long term progress in skills
 
 As a Figure Skater, I've always wanted a way to keep track of my practice sessions and skills  
 in a way that was _organized_ and allowed me to _easily review_ what elements I needed to work on. 
 
 
-####This application will allow _Figure Skaters_ to:
+#### This application will allow _Figure Skaters_ to:
 - track skills practised on training sessions
 - rate their progress on each of their skills
 
