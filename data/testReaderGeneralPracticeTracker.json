@@ -1,0 +1,29 @@
+{
+  "sessions": [
+    {
+      "date": "2022-02-01",
+      "elements": [{
+        "success": 2,
+        "name": "3A"
+      }],
+      "startTime": "1:00 pm",
+      "endTime": "2:00 pm"
+    },
+    {
+      "date": "2022-02-02",
+      "elements": [
+        {
+          "success": 3,
+          "name": "StSq4"
+        },
+        {
+          "success": 2,
+          "name": "3A"
+        }
+      ],
+      "startTime": "5:00 pm",
+      "endTime": "6:00 pm"
+    }
+  ],
+  "name": "My practice tracker"
+}
